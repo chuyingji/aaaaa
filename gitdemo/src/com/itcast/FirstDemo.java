@@ -13,5 +13,6 @@ public class FirstDemo {
         i=i+222;
         System.out.println(i);
         int asdas =11 ;
+        int s =1 ;
     }
 }
